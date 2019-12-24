@@ -1,4 +1,4 @@
-Pirate speak translator translates any sentences typed in English by the client to Pirate speak by modifying a slected list of words into pirate speak. 
+Pirate speak translator translates any sentences typed in English by the client to Pirate speak by modifying a selected list of words into pirate speak. 
 
 The working of the translator can be split into three stages,
 
